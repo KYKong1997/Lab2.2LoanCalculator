@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab2.2 Loan Calculator</string>
+    <string name="carPrice">Car Price</string>
+    <string name="downPayment">Down Payment</string>
+    <string name="loanPeriod">Loan Period</string>
+    <string name="interestRate">Interest rate(%)</string>
+    <string name="calculateBtn">Calculate</string>
+    <string name="monthPayment">Month Repayment:</string>
+</resources>
